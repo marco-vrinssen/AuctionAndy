@@ -6,6 +6,4 @@
 ## SavedVariables: AuctionFavoritesDB
 ## SavedVariablesPerCharacter: AuctionFavoritesCharDB
 
-ExpansionFilter.lua
-FavoritesSync.lua
-SpacebarPost.lua
+AuctionAndy.lua
